@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity {
 	// Called when user clicks on button
 	public void openWebView(View view){
 		Intent intent = new Intent(this, DisplayWebView.class);
-		intent.putExtra(WADDRESS, "http://wario.waaa2");
+		//intent.putExtra(WADDRESS, "http://wario.waaa2");
 		startActivity(intent);
 	}
 
