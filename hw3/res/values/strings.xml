@@ -6,5 +6,10 @@
     <string name="xaccel">X: </string>
     <string name="yaccel">Y: </string>
     <string name="zaccel">Z: </string>
+    <string name="title_curr">Current</string>
+    <string name="title_max">Maximum</string>
+    <string name="modaccel">Acceleration: </string>
+    <string name="maxaccel">Acceleration: </string>
+    <string name="maxacceltime">Time: </string>
 
 </resources>

@@ -9,22 +9,6 @@
     tools:context="com.example.cmps121hw3.MainActivity$PlaceholderFragment"
     android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/xaccel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/xaccel" />
 
-    <TextView
-        android:id="@+id/yaccel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/yaccel" />
-
-    <TextView
-        android:id="@+id/zaccel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/zaccel" />
 
 </LinearLayout>
