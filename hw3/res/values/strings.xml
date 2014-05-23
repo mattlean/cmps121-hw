@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Acceleration Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="xaccel">X: </string>
+    <string name="yaccel">Y: </string>
+    <string name="zaccel">Z: </string>
+
+</resources>
